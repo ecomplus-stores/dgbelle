@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header__submenu {\n  max-width: none;\n  min-width: 100%;\n  left: 0%;\n  gap: var(--spacer-1);\n  margin-top: var(--spacer-2);\n  grid-template-columns: repeat(auto-fit, minmax(15%, 1fr)); \n}",
   "html_head": "",
   "html_body": ""
 }
