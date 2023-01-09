@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8bf2f2a5f2b39c839b5d00122a3ee538.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.f46e427ef7f8307eb9c48e22d8c898ab.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.27a11d1881d65d5453d2221add8fbd7f.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.95be3e3c234c5b8fa5f48c9cdee4a193.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.71421c735af9a92d335c8ffc5d772de3.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "DG Belle Moda Íntima",
+  "short_name": "dgbelle",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "dgbelle",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
