@@ -1,1 +1,7 @@
 // Add your custom CSS here.
+@media(min-width: 576px) {
+    .shelfs-nav__tabs {
+        display: flex;
+        justify-content: center;
+    }
+}

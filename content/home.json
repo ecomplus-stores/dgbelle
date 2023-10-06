@@ -20,14 +20,28 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "type": "shelfs-nav",
       "shuffle": true,
-      "collection_id": "",
-      "sort": "news",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "651191ff2cd6b659595c2dc2:categories:Conjuntos:/conjuntos",
+        "651192aa2cd6b659595c2f2e:categories:Body:/body"
+      ],
+      "shelfs_title": "Mais Queridos",
+      "sort": "news"
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "651192ef2cd6b659595c3024:categories:Linha Noite:/linha-noite",
+        "6511919e2cd6b659595c2cce:categories:Calcinhas:/calcinhas"
+      ],
+      "shelfs_title": "Populares",
+      "sort": "news"
     },
     {
       "type": "page-title",
