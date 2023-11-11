@@ -8,10 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/15-nov-2022-up.png",
+          "img": "/img/uploads/banner-loja.png",
           "link": "",
           "alt": "colecao1",
-          "mobile_img": "/img/uploads/03-ago-2022-up.png"
+          "mobile_img": "/img/uploads/03-ago-2022-up.png",
+          "start": "",
+          "end": ""
         }
       ]
     },
